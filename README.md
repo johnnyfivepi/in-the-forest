@@ -1,9 +1,9 @@
-# In the Forest 
+# In the forest 
 
 _last updated: December 1, 2024_
 
 ## Screen
-<img src="https://github.com/argos2/in_the_forest/blob/main/forest.png" alt="in the forest" width="300"/><br>
+<img src="https://github.com/johnnyfivepi/in-the-forest/blob/main/forest.png" alt="in the forest" width="300"/><br>
 
 demo: [Listen on SoundCloud](https://soundcloud.com/shiny-water6821/in_the_forest)<br>
 *(please excuse the static)*
