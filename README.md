@@ -32,8 +32,8 @@ This script includes a range of customizable parameters. Open the script in [Mai
 - **Additional Parameters**: Explore the parameters to tweak the effects and sounds, such as the reverb, delay, release time, etc.
 
 ## Installation
-- Copy the `in_the_forest.lua` file to the Norns `dust/code` directory.
-- Load the script through the Norns interface.
+1. Copy the `in_the_forest.lua` file to the Norns `dust/code` directory.
+2. Load the script through the Norns interface.
 
 ## Contributing
 I welcome contributions! Whether you want to enhance the soundscapes, add new customization options, or refine existing features, your ideas and improvements are appreciated.
